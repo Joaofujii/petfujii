@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:rgb(14, 117, 168);
+}
+
+#container{
+    margin: 1em auto;
+    width: 100%;
+    background:aliceblue;
+}
+
+#header{
+    background-color:rgb(228, 0, 125);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#mainnav{
+    background-color:rgb(228, 38, 180);
+    font-size: 20px;
+}
+
+#menu{
+    background-color:rgb(25, 158, 235);
+    float:right;
+    width: 20%;
+}
+
+#vid{
+    background-color:rgb(17, 135, 231);
+}
+
+#x{
+    color: rgb(3, 91, 190);
+    background-color: white;
+    
+}
+
+#contents{
+    float: left;
+    width: 77%;
+    background-color: rgb(218, 233, 246);
+    margin: 20px;
+}
+
+#footer{
+    clear: both;
+
+}
+
+#jj{
+    color: rgb(7, 6, 6);
+}
+
+#id {
+    
+}
+#joao{
+    float:right;
+    
+}
+#debora{
+    background-color: rgb(69, 185, 252);
+
+}
